@@ -12,6 +12,7 @@
         android:text="New Try for GitHub and Git"
         android:textSize="35sp"
         android:gravity="center"
+        android:textColor="#874825"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
